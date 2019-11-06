@@ -1,6 +1,5 @@
 //Inicializacao, visao e zoom inicial
 var map = L.map( 'map', {
-    center: [-22.918373, -43.212655],
     minZoom: 2,
     zoom: 16
 });
