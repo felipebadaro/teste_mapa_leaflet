@@ -22,5 +22,5 @@ for (var i = 0; i < marcadores.length; i++) {
 // Adicinando o grupo ao mapa
 grupo.addTo(map);
 
-//Calculando limites e dando padding nos pontos, para ficarem visíveis
+//Calculando limites e dando padding nos pontos para torná-los visíveis
 map.fitBounds(grupo.getBounds().pad(0.1));
