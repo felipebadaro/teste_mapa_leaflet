@@ -1,0 +1,22 @@
+marcadores = [
+   
+    {
+     "name": "Shopping Tijuca",
+     "url": "https://www.shoppingtijuca.com",
+     "lat": -22.921746, 
+     "lng": -43.234783 
+   },
+   {
+     "name": "Buxixo",
+     "url": "http://www.buxixochoperia.com.br",
+     "lat": -22.919087, 
+     "lng": -43.235111
+   },
+   {
+   	"name": "Shopping Downtown",
+   	"url": "downtown.com.br",
+   	"lat": -23.003245, 
+   	"lng": -43.317284
+   }
+
+];
